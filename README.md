@@ -1,4 +1,4 @@
-# Bonjour, je suis Thylane Rossi
+# Thylane Rossi
 
 J'ai obtenu une Licence d'informatique à l'Université Lyon 1 et je suis actuellement étudiante en Licence de philosophie à l'Université Jean Moulin Lyon 3.
 
