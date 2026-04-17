@@ -6,7 +6,7 @@ Je m'intéresse particulièrement à l'éthique de l'intelligence artificielle, 
 
 ## Mes Projets Principaux
 
-### The Riemann-Dyson AI Oracle (En cours)
+### The Riemann-Dyson AI Oracle 
 Ce projet de recherche personnel est à l'intersection de la théorie des matrices aléatoires, de la théorie des nombres et du Deep Learning. 
 * **Le but :** Entraîner un réseau de neurones artificiels (avec PyTorch) à différencier le chaos quantique (niveaux d'énergie des noyaux lourds via le GUE) du chaos mathématique (zéros de la fonction Zêta de Riemann). 
 * **L'enjeu :** Utiliser des outils d'Explainable AI pour interpréter la frontière de décision du modèle.
